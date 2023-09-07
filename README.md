@@ -1,6 +1,6 @@
 
 # 💫 About Me:
-🌱 I’m currently learning Node.js, Redux & Axios-Fetch<br>👨‍💻 All of my projects are available at https://elena-p-dev.vercel.app/<br>📫 How to reach me pashkova.e19@gmail.com<br>⚡ Fun fact I have a deep passion for video gaming, coding, crafting, exploring new places, and indulging in good books.<br><br>
+🌱 I’m currently learning Node.js, Redux & Axios-Fetch<br>👨‍💻 All of my projects are available at https://elena-p-dev.vercel.app/<br>⚡ Fun fact I have a deep passion for video gaming, coding, crafting, exploring new places, and indulging in good books.<br><br>
 
 
 ## 🌐 Socials:
