@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱👨‍💻 Check my Portfolio [https://elena-p-dev.vercel.app/](https://elena-p.vercel.app/)<br>⚡ Fun fact: I have a deep passion for video gaming, coding, crafting, exploring new places, and indulging in good books.<br><br>
+🌱👨‍💻 Check my Portfolio [https://elena-p.vercel.app/](https://elena-p.vercel.app/)<br>⚡ Fun fact: I have a deep passion for video gaming, coding, crafting, exploring new places, and indulging in good books.<br><br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/oiviephoto) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-pashkova-developer) 
