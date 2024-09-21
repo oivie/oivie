@@ -1,4 +1,7 @@
 # 💫 About Me:
+
+As a Full-Stack Developer, I specialize in the MERN stack (MongoDB, Express, React, Node.js) with deep expertise in AI, machine learning, and data analytics. My skill set includes developing predictive models, analyzing complex datasets, and leveraging Web3 technologies like Solana and Next.js to create intelligent, data-driven applications.
+
 🌱👨‍💻 Check my Portfolio [https://elena-p.vercel.app/](https://elena-p.vercel.app/)<br>⚡ Fun fact: I have a deep passion for video gaming, coding, crafting, exploring new places, and indulging in good books.<br><br>
 
 ## 🌐 Socials:
