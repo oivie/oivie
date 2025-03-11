@@ -1,68 +1,37 @@
-# 💻 About Me
-I'm a Full-Stack Developer with a specialization in the MERN stack (MongoDB, Express, React, Node.js), AI, machine learning, and data analytics. My focus is on developing intelligent, data-driven applications, leveraging tools like Solana and Next.js to create innovative Web3 solutions.
+# 👋 Hi, I'm Elena Pashkova  
+### 💻 ** Full Stack Developer | AI & Data Enthusiast | Blockchain Innovator**  
 
-🌱👨‍💻 Check my Portfolio [https://elena-p.vercel.app/](https://elena-p.vercel.app/)<br>⚡ Fun fact: I have a deep passion for video gaming, coding, crafting, exploring new places, and indulging in good books.<br><br>
+I specialize in **modern web development, AI integration, data analytics, and blockchain technologies**. My focus is on **building scalable, intelligent applications**, optimizing **performance and automation**, and leveraging **cloud and Web3 solutions** to drive innovation.  
 
-📬 Contact Me on LinkedIn: https://www.linkedin.com/in/elena-pashkova-developer/
+📌 **Check my Portfolio:** [elena-p.vercel.app](https://elena-p.vercel.app/)  
+📬 **Let’s Connect:** [LinkedIn](https://www.linkedin.com/in/elena-pashkova-developer/)
 
-# 💻 Tech Stack:
-### Programming Languages:
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat-square&logo=php&logoColor=white) 
-![Lua](https://img.shields.io/badge/Lua-%232C2D72.svg?style=flat-square&logo=lua&logoColor=white) 
-![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
-![Shell Script](https://img.shields.io/badge/Shell_Script-%23121011.svg?style=flat-square&logo=gnu-bash&logoColor=white) 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white) 
-![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=flat-square&logo=rust&logoColor=white)
+---
 
-### Front-End Development: 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)  
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white) 
-![Green Sock](https://img.shields.io/badge/GreenSock-88CE02?style=flat-square&logo=greensock&logoColor=white) 
-![jQuery](https://img.shields.io/badge/jQuery-%230769AD.svg?style=flat-square&logo=jquery&logoColor=white)  
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) 
-![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+## 🛠 **Tech Stack**  
 
-### Cloud Services:
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white) 
-![Netlify](https://img.shields.io/badge/Netlify-%23000000.svg?style=flat-square&logo=netlify&logoColor=#00C7B7) 
-![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat-square&logo=firebase&logoColor=white)
+### **🚀 Frontend Development**  
+![React](https://img.shields.io/badge/React-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=flat-square&logo=nextdotjs&logoColor=white)  ![Redux](https://img.shields.io/badge/Redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white)  
+![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=flat-square&logo=angular&logoColor=white)  ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)  ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)  ![GSAP](https://img.shields.io/badge/GSAP-%23000000.svg?style=flat-square&logo=greensock&logoColor=white)  
 
-### Databases:
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  
-![Microsoft SQL Server](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)  
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
+### **🖥️ Backend Development**  
+![Node.js](https://img.shields.io/badge/Node.js-%2343853D.svg?style=flat-square&logo=node.js&logoColor=white)  ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)  
+![FastAPI](https://img.shields.io/badge/FastAPI-%23000000.svg?style=flat-square&logo=fastapi&logoColor=white)  ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=java&logoColor=white)  ![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=flat-square&logo=spring-boot&logoColor=white)  
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=flat-square&logo=graphql&logoColor=white)  ![REST APIs](https://img.shields.io/badge/REST-%23000000.svg?style=flat-square&logo=rest&logoColor=white)  
 
-### Version Control:
-![Git](https://img.shields.io/badge/Git-fc6d26?style=flat-square&logo=git&logoColor=white)
+### **🗄️ Databases & Cloud**  
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)  ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat-square&logo=mongodb&logoColor=white)  ![SQL Server](https://img.shields.io/badge/SQL_Server-%23CC2927.svg?style=flat-square&logo=microsoft-sql-server&logoColor=white)  ![Oracle](https://img.shields.io/badge/Oracle-%23F80000.svg?style=flat-square&logo=oracle&logoColor=white)  
+![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)  ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=flat-square&logo=amazon-aws&logoColor=white)  ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoft-azure&logoColor=white)  
 
-### Big Data, Machine Learning & AI:
-![Hadoop](https://img.shields.io/badge/Hadoop-%234DC602.svg?style=flat-square&logo=apache-hadoop&logoColor=white)  
-![Spark](https://img.shields.io/badge/Apache_Spark-%23E25A1C.svg?style=flat-square&logo=apache-spark&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/Machine_Learning-%231877F2.svg?style=flat-square&logo=machine-learning&logoColor=white)  
-![GenAI](https://img.shields.io/badge/GenAI-%23000000.svg?style=flat-square&logo=artificial-intelligence&logoColor=white)  
-![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)  
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)  
-![LSTM](https://img.shields.io/badge/LSTM-%23000000.svg?style=flat-square&logo=lstm&logoColor=white)
+### **📊 AI, Data Analytics & Machine Learning**  
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)  ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=pytorch&logoColor=white)  ![LSTM](https://img.shields.io/badge/LSTM-%23000000.svg?style=flat-square&logo=lstm&logoColor=white)  
+![Hadoop](https://img.shields.io/badge/Hadoop-%234DC602.svg?style=flat-square&logo=apache-hadoop&logoColor=white)  ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white)  
 
-### Design:
-![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)  
-![Adobe After Effects](https://img.shields.io/badge/Adobe_After_Effects-9999FF.svg?style=flat-square&logo=Adobe-After-Effects&logoColor=white)  
-![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-%23FF9A00.svg?style=flat-square&logo=adobeillustrator&logoColor=white)  
-![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+### **🌐 Web3 & Blockchain**  
+![Solana](https://img.shields.io/badge/Solana-%23000000.svg?style=flat-square&logo=solana&logoColor=#00C7B7)  ![Web3.js](https://img.shields.io/badge/Web3-%23000000.svg?style=flat-square&logo=web3&logoColor=white)  
 
-### Blockchain & Web3:
-![Solana](https://img.shields.io/badge/Solana-%23000000.svg?style=flat-square&logo=solana&logoColor=#00C7B7)  
-![Web3](https://img.shields.io/badge/Web3-%23000000.svg?style=flat-square&logo=web3&logoColor=white)
+-
+## 📊 **GitHub Stats**  
 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=oivie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oivie&theme=tokyonight)](https://git.io/streak-stats)
-
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oivie&theme=tokyonight)](https://git.io/streak-stats)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=oivie&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)  
