@@ -1,6 +1,5 @@
 # 👋 Hi, I'm Elena
-### 💻 Full Stack Developer | AI & Data Enthusiast | Blockchain Innovator
-
+### 💻 Full Stack Developer | AI & Data Enthusiast | Blockchain 
 I specialize in **modern web development, AI integration, data analytics, and blockchain technologies**. My focus is on **building scalable, intelligent applications**, optimizing **performance and automation**, and leveraging **cloud and Web3 solutions** to drive innovation.  
 
 📌 **Check my Portfolio:** [elena-p.vercel.app](https://elena-p.vercel.app/)  
